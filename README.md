@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirthika Natarajan</h1>
-<h3 align="center">A software engineer with a creative vision</h3>
+<h3 align="center">Software Engineer</h3>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
